@@ -1,0 +1,10 @@
+ul .items li{
+  display: inline;
+}
+.items button.selected {
+  background-color: rgb(143, 187, 130);
+  color: white;
+  }
+  .items button.selected:hover {
+  background-color: rgb(118, 15, 106);
+  }
